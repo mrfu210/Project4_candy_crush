@@ -52,6 +52,6 @@ body {
   align-items: center;
   text-align: center;
   background-image: linear-gradient(#FFB6C1, #FFC0CB);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) inset, 0 1px 0 #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4) inset, 0 1px 0 #fff;
   color: #85796b;
 }
